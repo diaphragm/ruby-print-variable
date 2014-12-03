@@ -1,2 +1,0 @@
-ruby-print-variable
-===================
