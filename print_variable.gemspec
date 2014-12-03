@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.license = "Apache"
   s.homepage = "https://github.com/diaphragm/print-variable"
   s.description = <<-EOT
-This method is usefull to inspect variable in ruby.
+Add usefull method to inspect variable.
 
 Example:
   require 'pv'
