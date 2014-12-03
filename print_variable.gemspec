@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.author = "diaphragm"
   s.files = Dir['lib/**/*']
   s.license = "Apache"
-  s.homepage = "https://github.com/diaphragm/print-variable"
+  s.homepage = "https://github.com/diaphragm/ruby-print-variable"
   s.description = <<-EOT
 Add usefull method to inspect variable.
 
